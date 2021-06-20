@@ -8,5 +8,5 @@ myenv
 PyTorch/
 *.sqlite
 *.csv
-*.ipynb
 *.xlsx
+.ipynb_checkpoints/Part 3 - Analysis-checkpoint.ipynb
