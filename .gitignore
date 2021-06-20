@@ -1,0 +1,11 @@
+*.pyc
+*~
+/.vscode
+__pycache__
+/static
+myenv
+~$cursos.xlsx
+PyTorch/
+*.sqlite
+*.csv
+*.ipynb
