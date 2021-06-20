@@ -1,0 +1,2 @@
+FLASK_APP=testapi.py
+FLASK_DEBUG=1
